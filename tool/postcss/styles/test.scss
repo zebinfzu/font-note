@@ -1,0 +1,15 @@
+.box {
+  color: red;
+}
+.container {
+  color: red;
+  background: #000;
+}
+
+.f {
+  background-color: #fff;
+  .child {
+    width: 100px;
+    height: 200px;
+  }
+}
